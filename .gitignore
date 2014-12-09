@@ -1,0 +1,8 @@
+MyFishEye.Authentication/bin/
+MyFishEye.Authentication/obj/
+MyFishEye.DataAccess/bin/
+MyFishEye.DataAccess/obj/
+MyFishEye.Entities/bin/
+MyFishEye.Entities/obj/
+MyFishEye.WebConsole/obj/
+packages/
